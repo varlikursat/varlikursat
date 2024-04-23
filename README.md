@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @varlikursat
 - 👀 I’m interested in C#, UI Design , Java , WEB Programming
 - 🌱 I’m currently learning Java, C# , CSS JAVASCRIPT and Figma
-- 💞️ I’m looking to collaborate on WEB Projects or OOP Project
 - 📫 How to reach me send mail to kursatvarli13@gmail.com
 
 <!---
