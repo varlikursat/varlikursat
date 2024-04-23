@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @varlikursat
-- 👀 I’m interested in C#, UI Design , Java , WEB Programming
-- 🌱 I’m currently learning Java, C# , CSS JAVASCRIPT and Figma
+- 👀 I’m skilled in Back-End development with C# and Java, Machine Learning
+- (Additionaly) Business Analysis, Project Management
+- 🌱 I’m learner for Machine Learning, Deep Learning
 - 📫 How to reach me send mail to kursatvarli13@gmail.com
 
 <!---
